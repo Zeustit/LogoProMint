@@ -1,5 +1,3 @@
-echo -e "\033[1;34m"
-echo -e "\033[1;36m"
 echo -e "PPPPPPPPPPPPPPPPP                                           MMMMMMMM               MMMMMMMM   iiii                              tttt          "
 echo -e "P::::::::::::::::P                                          M:::::::M             M:::::::M  i::::i                           ttt:::t         "
 echo -e "P::::::PPPPPP:::::P                                         M::::::::M           M::::::::M   iiii                            t:::::t         "
