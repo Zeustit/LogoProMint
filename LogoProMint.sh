@@ -1,3 +1,5 @@
+echo -e "\033[1;34m"
+echo -e "\033[1;36m"
 echo -e "PPPPPPPPPPPPPPPPP                                           MMMMMMMM               MMMMMMMM   iiii                              tttt          "
 echo -e "P::::::::::::::::P                                          M:::::::M             M:::::::M  i::::i                           ttt:::t         "
 echo -e "P::::::PPPPPP:::::P                                         M::::::::M           M::::::::M   iiii                            t:::::t         "
@@ -14,6 +16,7 @@ echo -e "PP::::::PP            r:::::r             o:::::ooooo:::::o M::::::M   
 echo -e "P::::::::P            r:::::r             o:::::::::::::::o M::::::M               M::::::M i::::::i  n::::n    n::::n       tt::::::::::::::t"
 echo -e "P::::::::P            r:::::r              oo:::::::::::oo  M::::::M               M::::::M i::::::i  n::::n    n::::n         tt:::::::::::tt"
 echo -e "PPPPPPPPPP            rrrrrrr                ooooooooooo    MMMMMMMM               MMMMMMMM iiiiiiii  nnnnnn    nnnnnn           ttttttttttt  "
+echo -e "\033[1;34m"
 echo -e "\033[1;32mTelegram channel: \033[5;31mhttps://t.me/letskynode\033[0m"
 echo -e "\033[1;32mCreated by SecorD"
 echo -e "\033[0m"
