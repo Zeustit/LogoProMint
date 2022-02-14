@@ -1,3 +1,4 @@
+#!/bin/base
 echo -e "\033[1;34m"
 echo -e "\033[1;36m"
 echo
