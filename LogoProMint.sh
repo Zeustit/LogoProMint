@@ -11,5 +11,4 @@ echo -e "| $$     | $$      |  $$$$$$/| $$ \/  | $$| $$| $$  | $$  |  $$$$/  "
 echo -e "|__/     |__/       \______/ |__/     |__/|__/|__/  |__/   \___/    "
 echo
 echo -e "\033[1;32mTelegram channel: \033[5;31mhttps://t.me/ProMintChannel\033[0m"
-echo -e "\033[1;32mCreated by SecorD"
 echo -e "\033[0m"
