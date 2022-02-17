@@ -17,6 +17,6 @@ echo -e "P::::::::P            r:::::r             o:::::::::::::::o M::::::M   
 echo -e "P::::::::P            r:::::r              oo:::::::::::oo  M::::::M               M::::::M i::::::i  n::::n    n::::n         tt:::::::::::tt"
 echo -e "PPPPPPPPPP            rrrrrrr                ooooooooooo    MMMMMMMM               MMMMMMMM iiiiiiii  nnnnnn    nnnnnn           ttttttttttt  "
 echo -e "\033[1;34m"
-echo -e "\033[1;32m ProMint telegram channel: \033[5;31mhttps://t.me/ProMintChannel\033[0m"
-echo -e "\033[1;32m Client by SecorD0 
+echo -e "\033[1;32m Guide by ProMint "
+echo -e "telegram channel: \033[5;31mhttps://t.me/ProMintChannel\033[0m"" 
 echo -e "\033[0m"
