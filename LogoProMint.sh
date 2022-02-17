@@ -18,5 +18,5 @@ echo -e "P::::::::P            r:::::r              oo:::::::::::oo  M::::::M   
 echo -e "PPPPPPPPPP            rrrrrrr                ooooooooooo    MMMMMMMM               MMMMMMMM iiiiiiii  nnnnnn    nnnnnn           ttttttttttt  "
 echo -e "\033[1;34m"
 echo -e "\033[1;32m Guide by ProMint "
-echo -e "telegram channel: \033[5;31mhttps://t.me/ProMintChannel\033[0m"" 
+echo -e "telegram channel: \033[5;31mhttps://t.me/ProMintChannel\033[0m" 
 echo -e "\033[0m"
